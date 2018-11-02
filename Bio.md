@@ -1,6 +1,6 @@
 # Bio
 
-<p style="text-align: center;"><img src="https://user-images.githubusercontent.com/838945/47909678-f5e9b500-ded3-11e8-9566-79c03917d65d.png" style="border: none;"></p>
+![Photo and Icon](https://user-images.githubusercontent.com/838945/47909678-f5e9b500-ded3-11e8-9566-79c03917d65d.png)
 
 ## 認定・資格
 
@@ -10,7 +10,8 @@
 
 大学中退後、都内の小規模 SIer に就職し、基幹システムなどの開発に従事する。
 1年半ほど勤めたタイミングで、友人からの紹介により[サービス](https://www.moshimo.com/)ローンチ直後の[株式会社もしも](https://www.moshimo.co.jp/)にジョイン。事業規模拡大や新規事業立ち上げに尽力する。
-その後、[株式会社アイフリーク](http://www.i-freek.co.jp/)の子ども向けアプリ開発事業を行うセクションにジョインし、[絵本アプリ](http://ehonkan.jp/)の開発を皮切りに子ども向け知育・エンタメアプリの開発に従事。2014年に同セクションが[株式会社キッズスター](https://www.kidsstar.co.jp/)として独立し、2016年に同社 CTO に着任。現在に至る。
+
+その後、[株式会社アイフリーク](http://www.i-freek.co.jp/)の子ども向けアプリ開発事業を行うセクションにジョインし、[絵本アプリ](http://ehonkan.jp/)の開発を皮切りに子ども向け知育・エンタメアプリの開発に従事。<br />2014年に同セクションが[株式会社キッズスター](https://www.kidsstar.co.jp/)として独立し、2016年に同社 CTO に着任。現在に至る。
 
 ## テーマ
 
@@ -20,11 +21,16 @@
 
 ### コーチング
 
-誰かに何かを教えることが大好きで、特に**「ああ！なるほどっ！」ってなった瞬間に立ち会うことが至福の喜び**。
+誰かに何かを教えることが大好きで、特に **「ああ！なるほどっ！」ってなった瞬間に立ち会うことが至福の喜び** 。
+
 それが高じて、社内外を問わず勉強会での登壇やハンズオン講師などを務め、Unity の知見を広める **自称・Unity エヴァンジェリスト** と化している。
+
 また、UNIBOOK への寄稿や Schoo での動画講義など、様々な形でのアウトプットに精を出している。
+
 更に、Gotanda.unity をはじめとする各種コミュニティにも積極的に参加しており、「Unity ○○完全に理解した勉強会」シリーズのオーガナイザも務めることが多い。
+
 2018年中旬から、「[マンガでわかる Unity](https://unity-manga.hatenablog.com/)」のブログ連載を開始。
+
 Unite に登壇するのが直近の目標。
 
 **技術顧問の依頼、受け付けています！**
@@ -32,8 +38,10 @@ Unite に登壇するのが直近の目標。
 ### エンジニアリング
 
 エンジニアリングの分野に於いて、物事の抽象化を得意とする。
+
 汎用的なライブラリやフレームワークの開発を通じてエンジニアの役に立つことが何よりの歓び。
-最近は Unity 向けの[モジュール管理システム](https://github.com/umm-projects/umm)の開発や、Clean Architecture を Unity 向けに適用した[アーキテクチャフレームワーク](https://github.com/umm-projects/cafu_core)の開発を行い、布教活動に勤しんでいる。
+
+最近は Unity 向けの[モジュール管理システム](https://github.com/umm/umm)の開発や、Clean Architecture を Unity 向けに適用した[アーキテクチャフレームワーク](https://github.com/umm/cafu_core)の開発を行い、布教活動に勤しんでいる。
 
 ### おじさん
 
@@ -48,7 +56,7 @@ Unite に登壇するのが直近の目標。
 
 ## 技術
 
-現在は Unity に軸足を置いており、その周辺技術に対する知見も豊富に持つ。
+現在は Unity に軸足を置いており、その周辺技術に対する知見も豊富に持つ。<br />
 主立った得意分野としては以下の通り。
 
 * Unity
@@ -93,8 +101,10 @@ Unite に登壇するのが直近の目標。
 
 ## 講義・出演
 
+* [ものラジ](https://monorazi.hateblo.jp/)
+    * メインパーソナリティを務める
 * [Schoo / Unity の uGUI で作る 2D ゲーム](https://schoo.jp/class/4558)
-* [「Unityとは？」から始める実践入門 ~Unity でカジュアルゲームを作ってみよう！~](https://handsons.doorkeeper.jp/events/67418)
+* [「Unityとは？」から始める実践入門 -Unity でカジュアルゲームを作ってみよう！-](https://handsons.doorkeeper.jp/events/67418)
 * [しがないラジオ](https://shiganai.org/)
     * [sp.10a【ゲスト: monry】楽しいモノに飛びついていたら、SI、Web、ゲームの3業界を渡り歩いていた話](https://shiganai.org/ep/sp10a-monry)
     * [sp.10b【ゲスト: monry】楽しい教育アプリを作っていたら、自称 Unity エヴァンジェリストになっていた話](https://shiganai.org/ep/sp10b-monry)

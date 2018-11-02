@@ -104,7 +104,7 @@ Unite に登壇するのが直近の目標。
 * [ものラジ](https://monorazi.hateblo.jp/)
     * メインパーソナリティを務める
 * [Schoo / Unity の uGUI で作る 2D ゲーム](https://schoo.jp/class/4558)
-* [「Unityとは？」から始める実践入門 ~Unity でカジュアルゲームを作ってみよう！~](https://handsons.doorkeeper.jp/events/67418)
+* [「Unityとは？」から始める実践入門 -Unity でカジュアルゲームを作ってみよう！-](https://handsons.doorkeeper.jp/events/67418)
 * [しがないラジオ](https://shiganai.org/)
     * [sp.10a【ゲスト: monry】楽しいモノに飛びついていたら、SI、Web、ゲームの3業界を渡り歩いていた話](https://shiganai.org/ep/sp10a-monry)
     * [sp.10b【ゲスト: monry】楽しい教育アプリを作っていたら、自称 Unity エヴァンジェリストになっていた話](https://shiganai.org/ep/sp10b-monry)

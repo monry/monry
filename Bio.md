@@ -4,7 +4,8 @@
 
 ## 認定・資格
 
-* 2019-2020 Microsoft MVP (Developer Technologies)
+* <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081485-edee9600-0231-11e9-98b8-855121172680.png" width="200"><br />Unity Ambassador</a>
+* <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003290" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081518-0494ed00-0232-11e9-9fc1-3b66bc706739.png" width="150"><br />2019-2020 Microsoft MVP for Developer Technologies
 
 ## 略歴
 
@@ -23,7 +24,7 @@
 
 誰かに何かを教えることが大好きで、特に **「ああ！なるほどっ！」ってなった瞬間に立ち会うことが至福の喜び** 。
 
-それが高じて、社内外を問わず勉強会での登壇やハンズオン講師などを務め、Unity の知見を広める **自称・Unity エヴァンジェリスト** と化している。
+それが高じて、社内外を問わず勉強会での登壇やハンズオン講師などを務め、Unity Technologies Japan 社より **Unity Ambassador** として任命される。
 
 また、UNIBOOK への寄稿や Schoo での動画講義など、様々な形でのアウトプットに精を出している。
 

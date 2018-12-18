@@ -4,7 +4,7 @@
 
 ## 認定・資格
 
-* <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081485-edee9600-0231-11e9-98b8-855121172680.png" width="200"><br />Unity Ambassador</a>
+* <a href="https://blogs.unity3d.com/jp/2018/12/18/ambassador-ja/" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081485-edee9600-0231-11e9-98b8-855121172680.png" width="200"><br />Unity Ambassador</a>
 * <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003290" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081518-0494ed00-0232-11e9-9fc1-3b66bc706739.png" width="150"><br />2019-2020 Microsoft MVP for Developer Technologies</a>
 
 ## 略歴

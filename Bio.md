@@ -89,8 +89,15 @@ Unite に登壇するのが直近の目標。
 * [Blog: 個人](https://monry.hatenablog.com/)
 * [Blog: マンガでわかる Unity](https://unity-manga.hatenablog.com/)
 
+## 書籍
+
+* [Unity デザイナーズバイブル](https://www.borndigital.co.jp/book/18319.html)
+    * Part1 入門編
+
 ## 寄稿
 
+* [UNIBOOK11](https://booth.pm/ja/items/1503224)
+    * 第5章 Unity Package Manager 民主化の波に乗る方法
 * [UNIBOOK10](https://booth.pm/ja/items/957654)
     * 第15章 まだ依存管理で消耗してるの？umm で依存解決はうまくいく！
 * [UNIBOOK9](https://booth.pm/ja/items/831502)
@@ -102,6 +109,8 @@ Unite に登壇するのが直近の目標。
 
 ## 講義・出演
 
+* [Unity ステーション](https://www.youtube.com/playlist?list=PLFw9ryLdiLzZrglM9EATbH5kb46r736Et)
+    * [書籍『Unityデザイナーズ・バイブル』出版記念トーク大会](https://www.youtube.com/watch?v=VjgjFHnLeQU&list=PLFw9ryLdiLzZrglM9EATbH5kb46r736Et&index=14&t=0s)
 * [ものラジ](https://monorazi.hateblo.jp/)
     * メインパーソナリティを務める
 * [Schoo / Unity の uGUI で作る 2D ゲーム](https://schoo.jp/class/4558)
